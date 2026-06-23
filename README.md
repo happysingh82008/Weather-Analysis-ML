@@ -1,6 +1,6 @@
 # 🌤️ Weather Analysis and Temperature Prediction
 
-Hello! I am *Happy, a 1st-year B.Tech student specializing in **Artificial Intelligence & Machine Learning (AI & ML)* from the beautiful region of *Rudraprayag* 🏔️. This is my very first Machine Learning project!
+Hello! I am *Happy, a 1st-year B.Tech student specializing in **Artificial Intelligence & Machine Learning (AI & ML)* from the beautiful region of *Rudraprayag* (Uttarakhand)🏔️. This is my very first Machine Learning project!
 
 This is a beginner-friendly ML project that analyzes weekly weather data, visualizes temperature trends, and predicts future temperatures using *Linear Regression*.
 
